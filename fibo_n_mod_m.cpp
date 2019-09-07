@@ -10,7 +10,7 @@ Algo-------------------------------------------------------------------
 
 
 
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 typedef long long int ll;
 ll get_pisano_period(ll m) {
